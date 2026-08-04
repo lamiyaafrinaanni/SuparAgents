@@ -1,0 +1,10 @@
+{
+  "name": "AI Key Manager",
+  "description": "A comprehensive dashboard for managing API keys across multiple AI providers and syncing available models.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
